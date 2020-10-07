@@ -1,5 +1,7 @@
 This application will automatically fix the rubber-banding lag issue by modifying the .ini files in the user's AppData files.
 
+Simply download and run FixSatisfactoryLag.exe to fix the issue.
+
 It automatically follows the steps detailed on this wiki page: https://satisfactory.gamepedia.com/Multiplayer#Temporary_lag_solution and also described in this YouTube video: https://www.youtube.com/watch?v=0Di2C6MC2fI
 
 It modifies the following three files:
